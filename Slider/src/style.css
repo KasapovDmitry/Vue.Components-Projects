@@ -1,0 +1,9 @@
+main {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .slider {
+    position: relative;
+    margin: 20px 0;
+  }
